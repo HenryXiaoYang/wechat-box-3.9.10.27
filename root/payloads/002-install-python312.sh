@@ -19,3 +19,6 @@ ls -al /usr/local/bin/python
 
 python3.12 -V
 python -VV
+
+rm -rf ~/Python-3.12.7
+rm -rf ~/Python-3.12.7.tgz
