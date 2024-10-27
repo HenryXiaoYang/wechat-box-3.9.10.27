@@ -45,4 +45,4 @@ install
 
 wait
 sleep 15
-rm /WeChatSetup-3.9.10.27.exe
+sudo rm /WeChatSetup-3.9.10.27.exe
